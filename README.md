@@ -1,4 +1,5 @@
 - 👋 Hi, I am Fatih Ozveren
 -  How to reach me?
+-  => https://fatihozveren.com/tr
 -  => fatihozveren8520@hotmail.com
 -  => https://www.linkedin.com/in/fatihozveren/
