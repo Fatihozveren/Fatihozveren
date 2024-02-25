@@ -40,6 +40,7 @@
 </div>
 
 <br clear="both">
+<br clear="both">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
