@@ -55,7 +55,7 @@
 
 
 
-📫 fatihozveren8520@gmail.com
+📫  - fatihozveren8520@gmail.com
 
 ###
 
