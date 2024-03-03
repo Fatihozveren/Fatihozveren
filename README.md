@@ -53,8 +53,6 @@
 
 
 
-
-
 📫  - fatihozveren8520@gmail.com
 
 ###
