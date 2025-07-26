@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Fatih Özveren and I'm a Backend Developer, from Türkiye </h2>
+<h2 align="center">Hi 👋! My name is Fatih Özveren and I'm a Software Engineer, from Türkiye </h2>
 
 ###
 
