@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatihozveren&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fatihozveren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihozveren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="fatihozveren" /></p>
-</div>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false">
+    <img  alt="Fatihozveren's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Fatihozveren?cardType=github&fontFamily=&preferLogin=false" />
+  </a>
 
 
 <br clear="both">
