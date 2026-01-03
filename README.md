@@ -2,10 +2,9 @@
 
 ###
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false">
-    <img  alt="Fatihozveren's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Fatihozveren?cardType=github&fontFamily=&preferLogin=false" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=&preferLogin=false">
+    <img  alt="Fatihozveren's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Fatihozveren?cardType=github&theme=dark&fontFamily=&preferLogin=false" />
   </a>
-
 
 <br clear="both">
 
