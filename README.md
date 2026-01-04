@@ -2,8 +2,8 @@
 
 ###
 
-<a href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions">
-    <img  alt="Fatihozveren's GitHub Stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions" />
+<a href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions&theme=github">
+    <img  alt="Fatihozveren's GitHub Stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions&theme=github" />
   </a>
 
 <br clear="both">
