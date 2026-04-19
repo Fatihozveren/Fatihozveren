@@ -1,57 +1,114 @@
-<h2 align="center">Hi 👋! My name is Fatih Özveren and I'm a Software Engineer, from Türkiye </h2>
-
-###
-
-<a href="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions&theme=github">
-    <img  alt="Fatihozveren's GitHub Stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Fatihozveren&type=contributions&theme=github" />
-  </a>
-
-<br clear="both">
+<div align="center">
 
 
-<div align="left">
-  <h3 align="left">My Skills:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:7209b7,100:4361ee&height=200&section=header&text=Fatih%20Özveren&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7209B7&center=true&vCenter=true&width=435&lines=Yaz%C4%B1l%C4%B1m+Enginar%C4%B1" alt="Typing SVG" /></a>
+
+
 </div>
 
-<br clear="both">
-<br clear="both">
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatihozveren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihozveren" height="30" width="40" /></a>
-<a href="https://instagram.com/fatih.ozvrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatih.ozvrn" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+
+```yaml
+name: Fatih Özveren
+location: Türkiye 🇹🇷
+role: Software Engineer
+languages_spoken: [Turkish, English]
+interests: [Backend Development, APIs, System Design]
+contact: fatihozverenn@gmail.com
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔵 Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<br clear="both">
-<br clear="both">
+### 🟡 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatihozveren&theme=tokyonight&hide_border=true" />
+</div>
 
 
+---
 
-📫  - fatihozverenn@gmail.com
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fatihozveren/Fatihozveren/blob/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fatihozveren/Fatihozveren/blob/output/snake.svg" />
+    <img alt="Snake animation" src="https://github.com/Fatihozveren/Fatihozveren/blob/output/snake.svg" />
+  </picture>
+</div>
 
-<br clear="both">
+---
 
-###
+## 🌐 Connect With Me
 
-![Snake animation](https://github.com/Fatihozveren/Fatihozveren/blob/output/snake.svg)
+<div align="center">
+  <a href="https://linkedin.com/in/fatihozveren" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/fatih.ozvrn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:fatihozverenn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,50:7209b7,100:f72585&height=120&section=footer" width="100%"/>
+
+<i> "Zart, Zurt, Zort" </i>
+
+</div>
